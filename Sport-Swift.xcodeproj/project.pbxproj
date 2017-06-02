@@ -589,7 +589,7 @@
 				TargetAttributes = {
 					91B6D4D01EC333900011AAD4 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = LHRH7ZU3X2;
+						DevelopmentTeam = RJ4BT4DZ57;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -982,7 +982,7 @@
 			baseConfigurationReference = F24D226AAB4A8AAEF398F255 /* Pods-Sport-Swift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LHRH7ZU3X2;
+				DEVELOPMENT_TEAM = RJ4BT4DZ57;
 				INFOPLIST_FILE = "Sport-Swift/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -999,7 +999,7 @@
 			baseConfigurationReference = 95B7EDC153D0F0BD2DD78C4F /* Pods-Sport-Swift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LHRH7ZU3X2;
+				DEVELOPMENT_TEAM = RJ4BT4DZ57;
 				INFOPLIST_FILE = "Sport-Swift/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
